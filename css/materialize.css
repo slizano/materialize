@@ -8281,7 +8281,16 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
   .picker--time .picker__box {
     margin-bottom: 5em; } }
 body {
-  background-color: #e0f2f1; }
+  display: flex;
+  flex-direction: column;
+  background-color: #fff; }
+
+footer {
+  flex: 1 0 auto;
+  position: absolute;
+  bottom: 0;
+  width: 100%; }
 
 div.container h1 {
-  color: #009688; }
+  color: #ff5252;
+  font-weight: 300; }
