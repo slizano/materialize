@@ -38,8 +38,29 @@
 @import "components/date_picker/default.time.scss";
 
 body {
+	background-color: #e0f2f1;
+}
+
+div.container{
+	h1{
+		color: #009688 ;
+	}
 }
 
 .ilike-blue-container {
 	@extend .blue, .lighten-4;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
