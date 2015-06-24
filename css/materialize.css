@@ -8287,8 +8287,6 @@ body {
 
 footer {
   flex: 1 0 auto;
-  position: absolute;
-  bottom: 0;
   width: 100%; }
 
 div.container h1 {
